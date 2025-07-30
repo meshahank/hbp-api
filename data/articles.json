@@ -1,0 +1,47 @@
+[
+  {
+    "id": "article_1706123456789",
+    "title": "Welcome to HBP Publishing",
+    "content": "This is a sample article to get you started with the new JSON-based backend system.",
+    "excerpt": "A sample article for the new backend system",
+    "authorId": "1706123456789",
+    "status": "published",
+    "likes": 5,
+    "isLiked": false,
+    "createdAt": "2025-01-01T10:00:00.000Z",
+    "updatedAt": "2025-01-01T10:00:00.000Z"
+  },
+  {
+    "id": "1753838571871rd7fw6g2k",
+    "status": "published",
+    "title": "sdfsf",
+    "content": "sfsfs",
+    "authorId": "1753838255149laosv10sn",
+    "likes": 0,
+    "isLiked": false,
+    "createdAt": "2025-07-30T01:22:51.871Z",
+    "updatedAt": "2025-07-30T01:32:41.509Z"
+  },
+  {
+    "id": "1753839485117qipy7z17s",
+    "status": "published",
+    "title": "test publish",
+    "content": "sfsdf",
+    "authorId": "1753838255149laosv10sn",
+    "likes": 0,
+    "isLiked": false,
+    "createdAt": "2025-07-30T01:38:05.117Z",
+    "updatedAt": "2025-07-30T01:40:59.954Z"
+  },
+  {
+    "id": "1753839489518t23yy9giw",
+    "status": "draft",
+    "title": "sfsdf",
+    "content": "sfsf",
+    "authorId": "1753838255149laosv10sn",
+    "likes": 0,
+    "isLiked": false,
+    "createdAt": "2025-07-30T01:38:09.518Z",
+    "updatedAt": "2025-07-30T01:38:09.518Z"
+  }
+]

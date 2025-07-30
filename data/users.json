@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1706123456789",
+    "username": "admin",
+    "email": "admin@hbp.com",
+    "firstName": "Admin",
+    "lastName": "User",
+    "password": "$2a$10$YourHashedPasswordHere",
+    "isAdmin": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "1753838255149laosv10sn",
+    "username": "meshahank",
+    "email": "mohammedshahankaniyathodi@gmail.com",
+    "firstName": "SHAHAN",
+    "lastName": "K",
+    "password": "$2a$10$mM2Ix7SDup4kNi1XP9VBTurtEoq2uLwq7q/xVApfcHAaHNDw5JZQ.",
+    "isAdmin": false,
+    "createdAt": "2025-07-30T01:17:35.149Z"
+  },
+  {
+    "id": "1753839220117gdn3g53fa",
+    "username": "johndoe",
+    "email": "john@example.com",
+    "firstName": "John",
+    "lastName": "Doe",
+    "password": "$2a$10$GGfqZElnMBNHwy3S21h/VO3HKf/o9Yr49okd0xQyZLWmlYfROw1zS",
+    "isAdmin": false,
+    "createdAt": "2025-07-30T01:33:40.117Z"
+  }
+]
