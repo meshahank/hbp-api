@@ -1,1 +1,39 @@
-[]
+[
+  {
+    "id": "dcaad50b-a5ef-47b9-a629-2e2fca20a1b3",
+    "articleId": "2",
+    "authorId": "2",
+    "content": "Nice article!",
+    "createdAt": "2025-09-16T12:40:12.108Z"
+  },
+  {
+    "id": "60873bdb-7dfc-4bf4-8f72-9c0a3458a00d",
+    "articleId": "5e6155ba-443e-4a0e-9107-16d84ef4f92e",
+    "content": "df",
+    "createdAt": "2025-09-17T03:03:55.678Z"
+  },
+  {
+    "id": "5b2490df-b516-4344-aaf8-2a50f6135cea",
+    "articleId": "2",
+    "content": "ds",
+    "createdAt": "2025-09-17T03:13:04.234Z"
+  },
+  {
+    "id": "876f36e9-fae8-48a9-9b33-fece44d006f6",
+    "articleId": "2",
+    "content": "dfs",
+    "createdAt": "2025-09-17T03:13:05.912Z"
+  },
+  {
+    "id": "25c8aaf5-8dad-47ec-a5d2-c0c9c71f2185",
+    "articleId": "1",
+    "content": "sf",
+    "createdAt": "2025-09-17T03:13:18.720Z"
+  },
+  {
+    "id": "acd6e05e-e208-4aed-87b4-461c7a711169",
+    "articleId": "f4d06a92-034e-43e4-885f-a734a30663ad",
+    "content": "sdf",
+    "createdAt": "2025-09-17T05:15:33.812Z"
+  }
+]

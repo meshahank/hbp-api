@@ -1,13 +1,32 @@
 [
   {
-    "id": "admin_1722826800000",
+    "id": "2",
+    "email": "jane@example.com",
+    "username": "janesmith",
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "role": "user",
+    "password": "$2a$08$aiKJ1SdL1rMuKp1K.LFLI.o1QNT038k5qqHEy0XMy/Fs6sKzf8PbS",
+    "isAdmin": false
+  },
+  {
+    "id": "407d3639-a2fe-427d-8369-fce621f68dbd",
+    "username": "johndoe",
+    "email": "john@example.com",
+    "firstName": "John",
+    "lastName": "Doe",
+    "role": "user",
+    "password": "$2a$08$i6DaWpPKW42J5YmBqmicxOT9C0RUH7YiUT1pujJHFIkveMw6QuCkW",
+    "isAdmin": false
+  },
+  {
+    "id": "f79310bc-79d7-41af-987b-c0aa73775e68",
     "username": "admin",
     "email": "admin@hbp.com",
     "firstName": "Admin",
-    "lastName": "User",
-    "password": "$2a$10$gmzZ4YFMiSHPlBqHlJnGtuC17MMgZqEhK0w8iZuRVhcWk7iSn5/j2",
-    "isAdmin": true,
-    "role": "admin",
-    "createdAt": "2025-08-05T00:00:00.000Z"
+    "lastName": "HBP",
+    "role": "user",
+    "password": "$2a$08$GPKUDtTydgW0//0yaua81u7JLmuasipM6Y4JuACfrKKlPCoW1B54a",
+    "isAdmin": true
   }
 ]

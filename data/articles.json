@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "id": "1",
+    "title": "Welcome to HBP Publishing",
+    "content": "Discover amazing stories and share your own with our community.",
+    "excerpt": "Discover amazing stories and share your own with our community.",
+    "category": "General",
+    "tags": [
+      "welcome",
+      "community"
+    ],
+    "status": "published",
+    "author": {
+      "id": "1",
+      "email": "john@example.com",
+      "username": "johndoe",
+      "firstName": "John",
+      "lastName": "Doe",
+      "role": "user"
+    },
+    "likes": 10,
+    "isLiked": false,
+    "createdAt": "2025-09-16T12:16:20.266Z",
+    "updatedAt": "2025-09-16T12:16:20.266Z"
+  },
+  {
+    "id": "2",
+    "title": "Platform Updates and Guidelines",
+    "content": "Welcome to our publishing platform! Please follow our community guidelines: be respectful, create original content, and engage positively.",
+    "excerpt": "Welcome to our publishing platform! Please follow our community guidelines...",
+    "category": "Updates",
+    "tags": [
+      "updates",
+      "guidelines"
+    ],
+    "status": "draft",
+    "author": {
+      "id": "2",
+      "email": "jane@example.com",
+      "username": "janesmith",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "role": "user"
+    },
+    "likes": 5,
+    "isLiked": false,
+    "createdAt": "2025-09-16T12:23:47.536Z",
+    "updatedAt": "2025-09-16T12:23:47.536Z"
+  },
+  {
+    "id": "f4d06a92-034e-43e4-885f-a734a30663ad",
+    "title": "Test Article",
+    "content": "Hai Hello",
+    "excerpt": "Hai Hello",
+    "category": "",
+    "tags": [],
+    "status": "draft",
+    "author": {
+      "id": "407d3639-a2fe-427d-8369-fce621f68dbd",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john@example.com",
+      "username": "johndoe"
+    },
+    "likes": 0,
+    "isLiked": false,
+    "createdAt": "2025-09-17T03:34:51.445Z",
+    "updatedAt": "2025-09-17T04:00:41.900Z"
+  }
+]
