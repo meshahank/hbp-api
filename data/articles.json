@@ -1,14 +1,11 @@
 [
   {
-    "id": "1",
-    "title": "Welcome to HBP Publishing",
-    "content": "Discover amazing stories and share your own with our community.",
-    "excerpt": "Discover amazing stories and share your own with our community.",
-    "category": "General",
-    "tags": [
-      "welcome",
-      "community"
-    ],
+    "id": "3",
+    "title": "The Future of Digital Publishing",
+    "content": "Digital publishing is transforming how stories are shared. From e-books to interactive platforms, readers are engaging in new ways.",
+    "excerpt": "Digital publishing is transforming how stories are shared...",
+    "category": "Technology",
+    "tags": ["publishing", "digital", "future"],
     "status": "published",
     "author": {
       "id": "1",
@@ -18,21 +15,60 @@
       "lastName": "Doe",
       "role": "user"
     },
-    "likes": 10,
+    "likes": 14,
     "isLiked": false,
-    "createdAt": "2025-09-16T12:16:20.266Z",
-    "updatedAt": "2025-09-16T12:16:20.266Z"
+    "createdAt": "2025-09-17T09:10:15.120Z",
+    "updatedAt": "2025-09-17T09:10:15.120Z"
   },
   {
-    "id": "2",
-    "title": "Platform Updates and Guidelines",
-    "content": "Welcome to our publishing platform! Please follow our community guidelines: be respectful, create original content, and engage positively.",
-    "excerpt": "Welcome to our publishing platform! Please follow our community guidelines...",
+    "id": "4",
+    "title": "Writing Tips for Beginners",
+    "content": "Starting your writing journey? Here are 5 tips: write daily, read widely, seek feedback, embrace rewrites, and trust your voice.",
+    "excerpt": "Starting your writing journey? Here are 5 practical tips...",
+    "category": "Writing",
+    "tags": ["tips", "beginners", "writing"],
+    "status": "published",
+    "author": {
+      "id": "2",
+      "email": "jane@example.com",
+      "username": "janesmith",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "role": "user"
+    },
+    "likes": 22,
+    "isLiked": false,
+    "createdAt": "2025-09-17T10:05:33.784Z",
+    "updatedAt": "2025-09-17T10:05:33.784Z"
+  },
+  {
+    "id": "5",
+    "title": "Community Highlights: September Edition",
+    "content": "This month, our writers explored topics like resilience, technology, and storytelling. Here are some of our favorite contributions.",
+    "excerpt": "A roundup of this month's best community contributions...",
+    "category": "Community",
+    "tags": ["highlights", "community", "september"],
+    "status": "published",
+    "author": {
+      "id": "1",
+      "email": "john@example.com",
+      "username": "johndoe",
+      "firstName": "John",
+      "lastName": "Doe",
+      "role": "user"
+    },
+    "likes": 18,
+    "isLiked": false,
+    "createdAt": "2025-09-17T12:45:09.221Z",
+    "updatedAt": "2025-09-17T12:45:09.221Z"
+  },
+  {
+    "id": "6",
+    "title": "Upcoming Features Sneak Peek",
+    "content": "We’re working on exciting updates like dark mode, advanced search, and personalized recommendations. Stay tuned!",
+    "excerpt": "Exciting updates are coming soon to the platform...",
     "category": "Updates",
-    "tags": [
-      "updates",
-      "guidelines"
-    ],
+    "tags": ["features", "sneakpeek"],
     "status": "draft",
     "author": {
       "id": "2",
@@ -42,29 +78,135 @@
       "lastName": "Smith",
       "role": "user"
     },
-    "likes": 5,
+    "likes": 7,
     "isLiked": false,
-    "createdAt": "2025-09-16T12:23:47.536Z",
-    "updatedAt": "2025-09-16T12:23:47.536Z"
+    "createdAt": "2025-09-18T08:22:44.672Z",
+    "updatedAt": "2025-09-18T08:22:44.672Z"
   },
   {
-    "id": "f4d06a92-034e-43e4-885f-a734a30663ad",
-    "title": "Test Article",
-    "content": "Hai Hello",
-    "excerpt": "Hai Hello",
-    "category": "",
-    "tags": [],
-    "status": "draft",
+    "id": "7",
+    "title": "How to Find Your Creative Voice",
+    "content": "Every writer has a unique voice. Discover exercises and practices that help you unlock and strengthen yours.",
+    "excerpt": "Discover exercises to strengthen your creative voice...",
+    "category": "Writing",
+    "tags": ["creativity", "voice", "writing"],
+    "status": "published",
     "author": {
-      "id": "407d3639-a2fe-427d-8369-fce621f68dbd",
+      "id": "1",
+      "email": "john@example.com",
+      "username": "johndoe",
       "firstName": "John",
       "lastName": "Doe",
-      "email": "john@example.com",
-      "username": "johndoe"
+      "role": "user"
     },
-    "likes": 0,
+    "likes": 12,
     "isLiked": false,
-    "createdAt": "2025-09-17T03:34:51.445Z",
-    "updatedAt": "2025-09-17T04:00:41.900Z"
+    "createdAt": "2025-09-18T14:31:58.905Z",
+    "updatedAt": "2025-09-18T14:31:58.905Z"
+  },
+  {
+    "id": "8",
+    "title": "Publishing in a Global Context",
+    "content": "Stories transcend borders. Here’s how publishing platforms are connecting voices from around the world.",
+    "excerpt": "How global platforms connect writers and readers worldwide...",
+    "category": "Global",
+    "tags": ["global", "publishing", "stories"],
+    "status": "published",
+    "author": {
+      "id": "2",
+      "email": "jane@example.com",
+      "username": "janesmith",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "role": "user"
+    },
+    "likes": 9,
+    "isLiked": false,
+    "createdAt": "2025-09-18T16:05:47.112Z",
+    "updatedAt": "2025-09-18T16:05:47.112Z"
+  },
+  {
+    "id": "9",
+    "title": "The Power of Storytelling",
+    "content": "Stories shape culture, identity, and empathy. Explore why storytelling remains essential in the digital age.",
+    "excerpt": "Why storytelling still matters in our digital world...",
+    "category": "General",
+    "tags": ["storytelling", "culture", "empathy"],
+    "status": "published",
+    "author": {
+      "id": "1",
+      "email": "john@example.com",
+      "username": "johndoe",
+      "firstName": "John",
+      "lastName": "Doe",
+      "role": "user"
+    },
+    "likes": 25,
+    "isLiked": false,
+    "createdAt": "2025-09-18T17:44:20.398Z",
+    "updatedAt": "2025-09-18T17:44:20.398Z"
+  },
+  {
+    "id": "10",
+    "title": "Q&A: Meet the Authors",
+    "content": "We sat down with some of our most active authors to learn about their creative process and motivations.",
+    "excerpt": "Insights from our community's most active writers...",
+    "category": "Community",
+    "tags": ["authors", "interview", "community"],
+    "status": "draft",
+    "author": {
+      "id": "2",
+      "email": "jane@example.com",
+      "username": "janesmith",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "role": "user"
+    },
+    "likes": 3,
+    "isLiked": false,
+    "createdAt": "2025-09-19T09:50:11.541Z",
+    "updatedAt": "2025-09-19T09:50:11.541Z"
+  },
+  {
+    "id": "11",
+    "title": "Why Feedback Matters",
+    "content": "Constructive feedback helps writers improve and readers engage more deeply. Learn how to give and receive feedback effectively.",
+    "excerpt": "Feedback is key to growth for both writers and readers...",
+    "category": "Writing",
+    "tags": ["feedback", "growth"],
+    "status": "published",
+    "author": {
+      "id": "1",
+      "email": "john@example.com",
+      "username": "johndoe",
+      "firstName": "John",
+      "lastName": "Doe",
+      "role": "user"
+    },
+    "likes": 11,
+    "isLiked": false,
+    "createdAt": "2025-09-19T11:35:26.733Z",
+    "updatedAt": "2025-09-19T11:35:26.733Z"
+  },
+  {
+    "id": "12",
+    "title": "Exploring Genres",
+    "content": "From fantasy to nonfiction, experimenting with genres can expand your skills and creativity as a writer.",
+    "excerpt": "Experimenting with genres can unlock new creativity...",
+    "category": "Writing",
+    "tags": ["genres", "creativity"],
+    "status": "published",
+    "author": {
+      "id": "2",
+      "email": "jane@example.com",
+      "username": "janesmith",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "role": "user"
+    },
+    "likes": 16,
+    "isLiked": false,
+    "createdAt": "2025-09-19T12:40:49.899Z",
+    "updatedAt": "2025-09-19T12:40:49.899Z"
   }
 ]
